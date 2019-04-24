@@ -4,7 +4,8 @@
   "description": "Kodilla task 13.7 Node.js files",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/arti-zachara/13.3-Node.js_files/issues"
   },
-  "homepage": "https://github.com/arti-zachara/13.3-Node.js_files#readme"
+  "homepage": "https://github.com/arti-zachara/13.3-Node.js_files#readme",
+  "dependencies": {
+    "stat-mode": "^0.3.0"
+  }
 }
