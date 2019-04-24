@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/arti-zachara/13.3-Node.js_files#readme",
   "dependencies": {
+    "colors": "^1.3.3",
     "stat-mode": "^0.3.0"
   }
 }
