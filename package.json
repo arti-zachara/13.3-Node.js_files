@@ -1,0 +1,23 @@
+{
+  "name": "13.3",
+  "version": "1.0.0",
+  "description": "Kodilla task 13.7 Node.js files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arti-zachara/13.3-Node.js_files.git"
+  },
+  "keywords": [
+    "node.js",
+    "files"
+  ],
+  "author": "arti Zachara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arti-zachara/13.3-Node.js_files/issues"
+  },
+  "homepage": "https://github.com/arti-zachara/13.3-Node.js_files#readme"
+}
